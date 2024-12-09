@@ -11,7 +11,7 @@ Before transitioning into development, I played a key role in managing my father
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
 [![Redux](https://img.shields.io/badge/Redux%20-%20%23383838?style=for-the-badge&logo=redux&logoColor=%237348B6)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Docker](https://img.shields.io/badge/Docker%20-%20%2300cbeb?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker%20-%20%231E63ED?style=for-the-badge&logo=docker&logoColor=%23FFFFFF)](https://www.docker.com/)
 [![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en)
 [![Deno](https://img.shields.io/badge/Deno%20-%20%231f1f1f?style=for-the-badge&logo=deno&logoColor=%2371FFAF)](https://deno.com/)
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
@@ -19,8 +19,10 @@ Before transitioning into development, I played a key role in managing my father
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgresQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)](https://orm.drizzle.team/)
 [![Supabase](https://img.shields.io/badge/Supabase%20-%20%233ECF8E?style=for-the-badge&logo=supabase&logoColor=%23ffffff)](https://supabase.com/)
 [![Vitest](https://img.shields.io/badge/Vitest%20-%20%23212121?style=for-the-badge&logo=vitest&logoColor=%23ACD268)](https://vitest.dev/)
+[![Jest](https://img.shields.io/badge/Jest%20-%20%23C21324?style=for-the-badge&logo=jest)](https://jestjs.io/)
 [![Git](https://img.shields.io/badge/Git%20-%20%23413932?style=for-the-badge&logo=git&logoColor=%23EA4E30)](https://git-scm.com/)
 
 ## Current Major Projects
@@ -72,3 +74,7 @@ GigFinder is a dynamic event discovery app that connects users with live events 
 - Successfully migrated the entire codebase to TypeScript, implementing strict type checking and interfaces to enhance code reliability.
 - Established a robust testing infrastructure using Jest and Cypress for comprehensive test coverage.
 - Led debugging initiatives to identify and resolve critical issues, significantly improving the user experience.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/george-burt/)
