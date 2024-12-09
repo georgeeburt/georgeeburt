@@ -72,3 +72,7 @@ GigFinder is a dynamic event discovery app that connects users with live events 
 - Successfully migrated the entire codebase to TypeScript, implementing strict type checking and interfaces to enhance code reliability.
 - Established a robust testing infrastructure using Jest and Cypress for comprehensive test coverage.
 - Led debugging initiatives to identify and resolve critical issues, significantly improving the user experience.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/george-burt/)
