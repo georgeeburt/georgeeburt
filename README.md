@@ -2,7 +2,7 @@
 
 I'm a **Software Engineer** passionate about designing and building scalable, efficient applications, I thrive on solving complex problems and delivering meaningful solutions.
 
-Before transitioning into development, I played a key role in managing my father's business, where I honed my problem-solving, communication and leadership skills. These experiences now shape how I approach creating innovative and practical applications.
+Before transitioning into development, I managed key operations in a construction industry business, where I honed my problem-solving, communication, and leadership skills. These experiences now shape how I approach creating innovative and practical applications.
 
 ## Tech Stack
 
