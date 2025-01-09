@@ -23,6 +23,7 @@ Before transitioning into development, I played a key role in managing my father
 [![Supabase](https://img.shields.io/badge/Supabase%20-%20%233ECF8E?style=for-the-badge&logo=supabase&logoColor=%23ffffff)](https://supabase.com/)
 [![Vitest](https://img.shields.io/badge/Vitest%20-%20%23212121?style=for-the-badge&logo=vitest&logoColor=%23ACD268)](https://vitest.dev/)
 [![Jest](https://img.shields.io/badge/Jest%20-%20%23C21324?style=for-the-badge&logo=jest)](https://jestjs.io/)
+[![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
 [![Git](https://img.shields.io/badge/Git%20-%20%23413932?style=for-the-badge&logo=git&logoColor=%23EA4E30)](https://git-scm.com/)
 
 ## Current Major Projects
