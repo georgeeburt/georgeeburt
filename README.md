@@ -27,7 +27,7 @@ Before transitioning into development, I played a key role in managing my father
 [![Git](https://img.shields.io/badge/Git%20-%20%23413932?style=for-the-badge&logo=git&logoColor=%23EA4E30)](https://git-scm.com/)
 
 ## Current Major Projects
-### <img src="./icons/chainalyze.png" height="15" alt="Chainalyze icon" title="Chainalyze"/> [Chainalyze](https://github.com/georgeeburt/chainalyze)
+### <img src="./icons/chainalyze.png" height="15" alt="Chainalyze icon" title="Chainalyze"/> Chainalyze
 <div style="width: 100%; max-width: 600px;">
     <img src="./animations/chainalyze.gif" width="100%" style="display: block;" alt="Chainalyze gif" title="Chainalyze"/>
 </div>
@@ -50,7 +50,7 @@ Chainalyze helps users:
 - **Analyze Tokens:** Deep dive into individual cryptocurrencies with comprehensive metrics, historical data, and resource links.
 - **Monitor Performance:** Track investment performance across multiple timeframes with clear visual indicators and percentage changes.
 
-### <img src="./icons/birdyai.png" height="15" alt="birdy.ai icon" title="birdy.ai"/> [birdy.ai](https://github.com/kayyueth/birdy_ai)
+### <img src="./icons/birdyai.png" height="15" alt="birdy.ai icon" title="birdy.ai"/> birdy.ai
 <div style="width: 100%; max-width: 600px;">
     <img src="./animations/birdyai.gif" width="100%" style="display: block;" alt="birdy.ai gif" title="birdy.ai"/>
 </div>
@@ -66,7 +66,7 @@ Chainalyze helps users:
 
 Birdy.ai is a cryptocurrency data analysis platform that aggregates tweets from Twitter to provide users with valuable insights and trends from the crypto community. Powered by AI, it curates sentiment analysis to deliver actionable, accurate, and relevant information for informed decision-making.
 
-### [Gigfinder](https://github.com/Alekos94/gigfinder)
+### Gigfinder
 
 GigFinder is a dynamic event discovery app that connects users with live events happening near them. Through an intuitive interface, users can explore, track and purchase tickets for local entertainment that matches their interests.
 
