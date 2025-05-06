@@ -10,12 +10,14 @@ With a keen focus on collaboration and continuous improvement, I strive to integ
 [![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)](https://www.typescriptlang.org/)
 [![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart%20-%20%2300569A?style=for-the-badge&logo=dart)](https://dart.dev/)
 [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
 
 ### Frontend
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Flutter](https://img.shields.io/badge/Flutter%20-%20%239698EF?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 [![Angular](https://img.shields.io/badge/angular%20-%20%23D8012E?style=for-the-badge&logo=angular)](https://angular.dev/)
 [![Redux](https://img.shields.io/badge/Redux%20-%20%23383838?style=for-the-badge&logo=redux&logoColor=%237348B6)](https://redux.js.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
