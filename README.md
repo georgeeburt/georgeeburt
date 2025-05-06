@@ -63,7 +63,7 @@ With a keen focus on collaboration and continuous improvement, I strive to integ
 
 
 ## Current Major Projects
-### <img src="./assets/icons/chainalyze.png" height="15" alt="Chainalyze icon" title="Chainalyze"/> [Chainalyze](https://github.com/georgeeburt/chainalyze)
+### <img src="./assets/icons/chainalyze.png" height="15" alt="Chainalyze icon" title="Chainalyze"/> Chainalyze
 <div style="width: 100%; max-width: 600px;">
     <img src="./assets/animations/chainalyze.gif" width="100%" style="display: block;" alt="Chainalyze gif" title="Chainalyze"/>
 </div>
@@ -88,7 +88,7 @@ Chainalyze helps users:
 
 ---
 
-### <img src="./assets/icons/birdyai.png" height="15" alt="birdy.ai icon" title="birdy.ai"/> [birdy.ai](https://github.com/kayyueth/birdy_ai)
+### <img src="./assets/icons/birdyai.png" height="15" alt="birdy.ai icon" title="birdy.ai"/> birdy.ai
 <div style="width: 100%; max-width: 600px;">
     <img src="./assets/animations/birdyai.gif" width="100%" style="display: block;" alt="birdy.ai gif" title="birdy.ai"/>
 </div>
