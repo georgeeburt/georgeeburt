@@ -104,12 +104,6 @@ Chainalyze helps users:
 
 Birdy.ai is a cryptocurrency data analysis platform that aggregates tweets from Twitter to provide users with valuable insights and trends from the crypto community. Powered by AI, it curates sentiment analysis to deliver actionable, accurate, and relevant information for informed decision-making.
 
----
-
-### [Gigfinder](https://github.com/Alekos94/gigfinder)
-
-GigFinder is a dynamic event discovery app that connects users with live events happening near them. Through an intuitive interface, users can explore, track and purchase tickets for local entertainment that matches their interests.
-
 #### Key Responsibilities
 
 - Successfully migrated the entire codebase to TypeScript, implementing strict type checking and interfaces to enhance code reliability.
