@@ -29,7 +29,7 @@ With a keen focus on collaboration and continuous improvement, I strive to integ
 [![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Deno](https://img.shields.io/badge/Deno%20-%20%231f1f1f?style=for-the-badge&logo=deno&logoColor=%2371FFAF)](https://deno.com/)
 [![Supabase](https://img.shields.io/badge/Supabase%20-%20%233ECF8E?style=for-the-badge&logo=supabase&logoColor=%23ffffff)](https://supabase.com/)
-
+[![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 ### Testing
 [![Vitest](https://img.shields.io/badge/Vitest%20-%20%23212121?style=for-the-badge&logo=vitest&logoColor=%23ACD268)](https://vitest.dev/)
 [![Jest](https://img.shields.io/badge/Jest%20-%20%23C21324?style=for-the-badge&logo=jest)](https://jestjs.io/)
